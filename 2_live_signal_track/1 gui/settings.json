@@ -1,0 +1,1 @@
+{"total_cash": "100000", "order_size": "5000", "kurtasje": "0.04", "start_date": "2023-07-11", "stocks": [{"ticker": "NEL.OL", "strategy": 11, "interval": "15m"}, {"ticker": "FRO.OL", "strategy": 11, "interval": "60m"}, {"ticker": "RECSI.OL", "strategy": 11, "interval": "30m"}, {"ticker": "AUTO.OL", "strategy": 10, "interval": "30m"}]}
